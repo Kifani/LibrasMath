@@ -12,7 +12,7 @@
       </div>
       <div class="row">
         <h1>O que é o HandsOn?</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veritatis voluptatum eos, nam unde quod aspernatur hic repellendus harum similique porro delectus pariatur in quibusdam vel optio ipsum quas quasi!</p>
+        <p>TESTE!</p>
       </div>
       <div class="row">
         <h1>O que é o HandsOn?</h1>
